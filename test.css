@@ -1,0 +1,23 @@
+
+canvas{
+    transform: translate(40%,0%);
+    border:10px solid black;
+    background-image: url(medieval.png);
+    background-size: cover;
+    position: absolute;
+}
+img{margin: 0;}
+
+
+.chrono {
+    position:absolute;
+    margin-top: 1px;
+    margin-left: 1330px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 140%;
+    z-index: 10;
+    color: rgb(32, 32, 36);
+}
